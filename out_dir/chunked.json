@@ -1,0 +1,10 @@
+{
+  "header": "This file does things",
+  "journal_data": [
+    {
+      "ts": "2021-12-16T04:13:13.544129",
+      "journal_chunk": "line 3\n\nline 4",
+      "check": "[(3, ('line 3\\n', None)), (4, ('line 4', None))]"
+    }
+  ]
+}
